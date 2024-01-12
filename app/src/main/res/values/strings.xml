@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GithubUsersSubmission</string>
+    <string name="searchbar_hint">Mau cari siapa?</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_1">Followers</string>
+    <string name="title_2">Followings</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="location">Location</string>
+    <string name="followers">Followers</string>
+    <string name="followings">Followings</string>
+    <string name="followers_not_found">Followers User Not Found</string>
+    <string name="following_not_found">Following User Not Found</string>
+    <string name="imglogo">imgLogo</string>
+    <string name="hintForSearch">Mau cari siapa?</string>
+    <string name="no_favorite">There is no favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="screen_mode">Screen Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
